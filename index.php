@@ -1,4 +1,10 @@
 <?php  
-print "Hello, World!";
-echo "Hello, World!";
+
+
+function add($a, $b) {
+    $c = $a + $b;
+}
+
+add(5, 10);
+
 ?>

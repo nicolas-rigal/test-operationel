@@ -1,0 +1,17 @@
+{
+    "name": "rigal/test-operationel",
+    "require": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rigal\\TestOperationel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicolas Rigal",
+            "email": "rigal.nicolas@laplatefor.io"
+        }
+    ]
+}
